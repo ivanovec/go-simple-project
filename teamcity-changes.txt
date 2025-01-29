@@ -1,0 +1,2 @@
+helper/hello.go:CHANGED:hash
+main.go:REMOVED:hash
